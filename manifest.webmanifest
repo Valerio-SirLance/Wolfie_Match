@@ -1,0 +1,84 @@
+{
+  "name": "Wolfie Match",
+  "short_name": "Wolfie Match",
+  "id": "wolfie.match",
+  "description": "Say hello to Wolfie, your playful and curious wolf friend! Wolfie loves a good challenge and wants you to join in the fun! Match pictures, words, and numbers to solve puzzles and unlock exciting surprises. With Wolfie by your side, learning has never been this fun! Let’s start matching and exploring together!",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "686362658cffd314749fce2b4689f0ccbce5a5eb2a41ac06a00c1fd852d004de-ios-icon-20.png.png",
+        "sizes": "20x20"
+      },{
+        "src": "80b8413616170d3960d12bef6c5371eba8c072add3620acfff684f343b2ffaa6-ios-icon-29.png.png",
+        "sizes": "29x29"
+      },{
+        "src": "3d564d7d248d164d7d3ad2cb08125bba4a6150b5cb1f2cdcafe73507ebf2019a-android-icon-36.png.png",
+        "sizes": "36x36"
+      },{
+        "src": "29eb239adcb5522456542c6cdb1e31eff6ecc9c16254f48a2ea82d996788c740-ios-icon-40.png.png",
+        "sizes": "40x40"
+      },{
+        "src": "8d0fea8a82ccb8e2f6ddf7cc7f8c85c56ec31dc27ce4e311509eda2d23f6eb31-android-icon-48.png.png",
+        "sizes": "48x48"
+      },{
+        "src": "95fc59b4cf4b24dd136edef4767ed0b7743a7ca737ad382bf8bbfec3255c2b2c-ios-icon-50.png.png",
+        "sizes": "50x50"
+      },{
+        "src": "c4b6986a7f32a52d8808d481b7d91f64bef4f77dada8d3cf7d6e9d2d9f76ca80-ios-icon-57.png.png",
+        "sizes": "57x57"
+      },{
+        "src": "a7eff0c5d78f12b6b001ff789be05b12f82971bb961ed35d3598c141cb821b82-ios-icon-58.png.png",
+        "sizes": "58x58"
+      },{
+        "src": "6c47dd2ec77fa005d2c0c71de6df36be63c288f6fc85fb3b0686a19ca42b447b-ios-icon-60.png.png",
+        "sizes": "60x60"
+      },{
+        "src": "6a2b1a3b4ee0b951fd4bfdd4793a21b1c63f654c8564fece741c5a10feeed69f-android-icon-72.png.png",
+        "sizes": "72x72"
+      },{
+        "src": "2711eef90a6651d6c7628547122138faf0601b3c8614d3b79dfcdc6baa29b102-ios-icon-76.png.png",
+        "sizes": "76x76"
+      },{
+        "src": "11fdd8a4769a93a347f18b552cf3efb87189618088d8ba8a0902632bae6412ce-ios-icon-80.png.png",
+        "sizes": "80x80"
+      },{
+        "src": "79c3f2d3b5dc0c983b8cf00f7a30ff3b7e131514b89bb55bb7ba6222e34b946b-ios-icon-87.png.png",
+        "sizes": "87x87"
+      },{
+        "src": "ccfff83396614657822ff1ef35fbb0b674357d02a88e65d4db032954d5453b33-android-icon-96.png.png",
+        "sizes": "96x96"
+      },{
+        "src": "0f5e0bc29a19d8157c8893e45e9b68975677890417eb18c983174f9531e391ec-ios-icon-100.png.png",
+        "sizes": "100x100"
+      },{
+        "src": "2ff80263410477c4b45bcb0026448081a5495e5d831d492a37d43b663d291629-ios-icon-114.png.png",
+        "sizes": "114x114"
+      },{
+        "src": "620125f522bb599f283548a70de0dbe118410d153e9020ea7a5a3d52fdba48a8-ios-icon-120.png.png",
+        "sizes": "120x120"
+      },{
+        "src": "ff16f7ea3e02c05acf4426e6c843690b61be90cd817cc3be22213535adadf896-android-icon-144.png.png",
+        "sizes": "144x144"
+      },{
+        "src": "ee64eb6817bec045256e949cd20e06d59769f8da1c546e5cedd7017e76ec7a30-ios-icon-152.png.png",
+        "sizes": "152x152"
+      },{
+        "src": "a1da74dcd9d3d782e2fe4a0f52a72adca0c039bfca6b60d20dfc13d51a001dae-ios-icon-167.png.png",
+        "sizes": "167x167"
+      },{
+        "src": "e05be8fbda4079017126d01b3a045dd3d36a1bd7db5c52835ed7280ef197526c-ios-icon-180.png.png",
+        "sizes": "180x180"
+      },{
+        "src": "39ba75b53b0c398983ca518061e4ca568c0a3d2f48da240ea20b7479418eb244-android-icon-192.png.png",
+        "sizes": "192x192"
+      },{
+        "src": "61ea7c67a7d755ee9af0b8968f5ba5f049064ec554c6bd5bf2ecd45fe31acec0-desktop-icon-512.png.png",
+        "sizes": "512x512"
+      },{
+        "src": "15dadb71e17b9d72ed46d57ffcbb76218604fdcf14f60252c72ca1a9eb46395f-ios-icon-1024.png.png",
+        "sizes": "1024x1024"
+      }]
+}
