@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://valerio-sirlance.github.io/Dreaming_by_Midknights/">
+  <a href="https://valerio-sirlance.github.io/Wolfie_Match/">
     <img src="https://github.com/Valerio-SirLance/Wolfie_Match/blob/main/wolfie-match-header.svg" alt="Wolfie Match Header" width="max-content" padding="0"/>
   </a>
 
@@ -15,13 +15,13 @@
     <tr>
       <td align="center">
         <strong>Github Pages:</strong><br>
-        <a href="https://valerio-sirlance.github.io/Dreaming_by_Midknights/">
+        <a href="https://valerio-sirlance.github.io/Wolfie_Match/">
           <img src="https://img.shields.io/badge/Github%20Pages-Visit%20Here-black" alt="Github Pages">
         </a>
       </td>
       <td align="center">
         <strong>gd.games:</strong><br>
-        <a href="https://gd.games/midknights/dreaming-by-midknights">
+        <a href="https://gd.games/purplewolfe/wolfie-match">
           <img src="https://img.shields.io/badge/gd.games-Visit%20Here-navy" alt="gd.games">
         </a>
       </td>
