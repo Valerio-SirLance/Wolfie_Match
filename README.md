@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://valerio-sirlance.github.io/Wolfie_Match/">
+  <a href="https://purple-wolfe.itch.io/wolfie-match">
     <img src="https://github.com/Valerio-SirLance/Wolfie_Match/blob/main/wolfie-match-header.svg" alt="Wolfie Match Header" width="max-content" padding="0"/>
   </a>
 
@@ -27,7 +27,7 @@
       </td>
       <td align="center">
         <strong>itch.io:</strong><br>
-        <a href="https://midknights.itch.io/dreaming">
+        <a href="https://purple-wolfe.itch.io/wolfie-match">
           <img src="https://img.shields.io/badge/itch.io-Visit%20Here-red" alt="itch.io">
         </a>
       </td>
